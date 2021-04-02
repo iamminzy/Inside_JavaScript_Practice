@@ -13,3 +13,4 @@ console.log(
     typeof emptyVar,
     typeof nullVar
 )
+//출력 결과 : number number string boolean undefined object
